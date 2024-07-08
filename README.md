@@ -93,7 +93,7 @@ west flash
 To execute Twister integration tests, run the following command:
 
 ```shell
-west twister -T tests --integration
+west twister --verbose -p unit_testing -T tests
 ```
 
 ### Documentation
