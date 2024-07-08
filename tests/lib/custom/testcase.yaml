@@ -1,5 +1,6 @@
 common:
   tags: extensibility
+  type: unit
   integration_platforms:
     - custom_plank
     - qemu_cortex_m0
